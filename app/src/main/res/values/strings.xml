@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChicFilAInterviewApp</string>
+    <string name="dice">dice</string>
+    <string name="rolldice">Roll dice!</string>
+</resources>
